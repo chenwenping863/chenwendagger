@@ -6,9 +6,6 @@ import android.widget.TextView;
 
 import javax.inject.Inject;
 
-import bean.User;
-import module.ActivityModule;
-
 public class MainActivity extends AppCompatActivity {
 
     private TextView mTextView;
